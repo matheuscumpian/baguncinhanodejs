@@ -18,4 +18,4 @@ Fiz apenas para usar como base para meus back-ends, essa API expõe dois recurso
 
 Dentro do projeto esta disponibilizado um middleware de auth que verifica a validade do jwt, é só usar ele quando quiser criar rotas protegidas e ta pronto o sorvetinho :pray:
 
-# Friendly reminder -> Porta default 8080 :bulb:
+#### Friendly reminder -> Porta default 8080 :bulb:

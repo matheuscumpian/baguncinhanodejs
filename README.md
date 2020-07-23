@@ -14,7 +14,7 @@ Antes de rodar configure as variáveis de ambiente do Mongo :)
 Fiz apenas para usar como base para meus back-ends, essa API expõe dois recursos:
 
 #### POST /api/auth   --> {email, password}  # Autentica o usuario  e gera jwt :key:
-#### POST /api/users   --> {name, email, password}  # Cria usuario lock :lock:
+#### POST /api/users   --> {name, email, password}  # Cria usuario :lock:
 
 Dentro do projeto esta disponibilizado um middleware de auth que verifica a validade do jwt, é só usar ele quando quiser criar rotas protegidas e ta pronto o sorvetinho :pray:
 

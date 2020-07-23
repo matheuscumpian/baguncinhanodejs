@@ -1,0 +1,8 @@
+# Intellij
+.idea/
+
+# Npm
+node_modules/*
+
+
+.env
